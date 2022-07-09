@@ -11,4 +11,5 @@ struct Friend {
     var name: String
     var stats: Int
     var school: String
+    var text: String
 }
